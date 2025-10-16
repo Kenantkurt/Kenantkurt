@@ -6,7 +6,7 @@ Currently based in Amsterdam 🇳🇱
 ---
 ## 🎓 Certificates
 
-- [Python – University of Michigan] pythonmichiganuniversty.png
+- [Python – University of Michigan] [pythonmichiganuniversty.png]
 - [SQL – University of Michigan](certificates/sqlmichiganuniversty.png)
 - [Excel Basics – IBM](certificates/excelbasicsibm.jpeg)
 - [Excel Intro To Data Analysis](certificates/excelintro.png)
