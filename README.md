@@ -7,13 +7,13 @@ Currently based in Amsterdam 🇳🇱
 ## 🎓 Certificates
 
 - [Python – University of Michigan](https://github.com/Kenantkurt/Certificates/blob/4bd68e6a6d7cb49b1cc007b83f04ea45991cd188/pythonmichiganuniversty.png)
-- [SQL – University of Michigan](certificates/sqlmichiganuniversty.png)
-- [Excel Basics – IBM](certificates/excelbasicsibm.jpeg)
-- [Excel Intro To Data Analysis](certificates/excelintro.png)
-- [Excel Beginner For Data Analysis](certificates/excelbeginner.png)
-- [Excel Intermediate For Data Analysis](certificates/excelintermediate.png)
-- [Excel Advanced For Data Analysis](certificates/exceladvanced.png)
-- [SQL Querying Basics](certificates/sqlquerybasics.png)
+- [SQL – University of Michigan](https://github.com/Kenantkurt/Certificates/blob/4bd68e6a6d7cb49b1cc007b83f04ea45991cd188/sqlmichiganuniversty.png)
+- [Excel Basics – IBM](https://github.com/Kenantkurt/Certificates/blob/4bd68e6a6d7cb49b1cc007b83f04ea45991cd188/excelbasicsibm.jpeg)
+- [Excel Intro To Data Analysis](https://github.com/Kenantkurt/Certificates/blob/4bd68e6a6d7cb49b1cc007b83f04ea45991cd188/excelintro.png)
+- [Excel Beginner For Data Analysis](https://github.com/Kenantkurt/Certificates/blob/4bd68e6a6d7cb49b1cc007b83f04ea45991cd188/excelbeginner%5D.pdf)
+- [Excel Intermediate For Data Analysis](https://github.com/Kenantkurt/Certificates/blob/4bd68e6a6d7cb49b1cc007b83f04ea45991cd188/excelintermediate.pdf)
+- [Excel Advanced For Data Analysis](https://github.com/Kenantkurt/Certificates/blob/4bd68e6a6d7cb49b1cc007b83f04ea45991cd188/exceladvanced.pdf)
+- [SQL Querying Basics](https://github.com/Kenantkurt/Certificates/blob/4bd68e6a6d7cb49b1cc007b83f04ea45991cd188/sqlquerybasics.png)
 
 
 
