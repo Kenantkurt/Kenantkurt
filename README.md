@@ -7,16 +7,16 @@ Currently based in Amsterdam 🇳🇱
 ## 🎓 Certifications
 
 <!-- Coursera / IBM sertifikaları -->
-- ![Coursera] [**Python – University of Michigan**](certificates/pythonmichiganuniversty.png)
-- ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**SQL – University of Michigan**](certificates/sqlmichiganuniversty.png)
-- ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**Excel Basics – IBM**](certificates/excelbasicsibm.jpeg)
+- ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**Python – University of Michigan**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/pythonmichiganuniversty.png)
+- ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**SQL – University of Michigan**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/sqlmichiganuniversty.png)
+- ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**Excel Basics – IBM**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/excelbasicsibm.jpeg)
 
 <!-- LearnIt sertifikaları -->
-- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Intro To Data Analysis**](certificates/excelintro.png)
-- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Beginner For Data Analysis**](certificates/excelbeginner.png)
-- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Intermediate For Data Analysis**](certificates/excelintermediate.png)
+- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Intro To Data Analysis**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/excelintro.png)
+- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Beginner For Data Analysis**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/excelbeginner.png)
+- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Intermediate For Data Analysis**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/excelintermediate.png)
 - ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Advanced For Data Analysis**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/exceladvanced.png)
-- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**SQL Querying Basics**](certificates/sqlquerybasics.png)
+- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**SQL Querying Basics**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/sqlquerybasics.png)
 
 ## 📊 Projects (Coming Soon!)
 I am currently building projects using **Excel, SQL, and Python**. Stay tuned for dashboards and data analyses.  
