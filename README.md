@@ -13,6 +13,8 @@ Currently based in Amsterdam 🇳🇱
 - ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Beginner For Data Analysis**](https://learnitanytime.com/courses/2506705/certificate)
 - ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Intermediate For Data Analysis**](https://learnitanytime.com/courses/2506730/certificate)
 - ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Advanced For Data Analysis**](https://learnitanytime.com/courses/2506731/certificate)
+- - ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**SQL Querying Basics**](https://learnitanytime.com/courses/SQL_Querying_Basics/certificate)
+
 
 ---
 
