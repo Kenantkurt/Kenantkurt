@@ -18,7 +18,6 @@ Currently based in Amsterdam 🇳🇱
 - ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Advanced For Data Analysis**](certificates/exceladvanced.png)
 - ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**SQL Querying Basics**](certificates/sqlquerybasics.png)
 
-
 ## 📊 Projects (Coming Soon!)
 I am currently building projects using **Excel, SQL, and Python**. Stay tuned for dashboards and data analyses.  
 
