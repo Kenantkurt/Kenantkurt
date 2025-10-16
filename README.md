@@ -6,18 +6,17 @@ Currently based in Amsterdam 🇳🇱
 ---
 ## 🎓 Certifications
 
-<!-- Coursera / IBM sertifikaları -->
-- ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**Python – University of Michigan**](certificates/python michigan universty.png)
-- ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**SQL – University of Michigan**](certificates/sql michigan universty.png)
-- ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**Excel Basics – IBM**](certificates/excel basics ibm.jpeg)
+<!-- Coursera / IBM -->
+- ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**Python – University of Michigan**](certificates/pythonmichiganuniversty.png)
+- ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**SQL – University of Michigan**](certificates/sqlmichiganuniversty.png)
+- ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**Excel Basics – IBM**](certificates/excelbasicsibm.jpeg)
 
-<!-- LearnIt sertifikaları -->
-- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Intro To Data Analysis**](certificates/excel intro .png)
-- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Beginner For Data Analysis**](certificates/excel beginner.pdf)
-- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Intermediate For Data Analysis**](certificates/excel intermediate.pdf)
-- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Advanced For Data Analysis**](certificates/excel advanced.pdf)
-- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**SQL Querying Basics**](certificates/sql query basics.png)
-
+<!-- LearnIt -->
+- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Intro To Data Analysis**](certificates/excelintro.png)
+- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Beginner For Data Analysis**](certificates/excelbeginner.png)
+- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Intermediate For Data Analysis**](certificates/excelintermediate.png)
+- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Advanced For Data Analysis**](certificates/exceladvanced.png)
+- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**SQL Querying Basics**](certificates/sqlquerybasics.png)
 
 ## 📊 Projects (Coming Soon!)
 I am currently building projects using **Excel, SQL, and Python**. Stay tuned for dashboards and data analyses.  
