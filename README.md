@@ -6,8 +6,6 @@ Currently based in Amsterdam 🇳🇱
 ---
 ## 🎓 Certifications
 
-## 🎓 Certifications
-
 <!-- Coursera / IBM sertifikaları -->
 - ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**Python – University of Michigan**](certificates/pythonmichiganuniversty.png)
 - ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**SQL – University of Michigan**](certificates/sqlmichiganuniversty.png)
