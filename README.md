@@ -4,19 +4,18 @@ Aspiring **Data Analyst** passionate about turning data into insights and visual
 Currently based in Amsterdam 🇳🇱  
 
 ---
-## 🎓 Certifications
+## 🎓 Certificates
 
-<!-- Coursera / IBM sertifikaları -->
-- ![Coursera] [**Python – University of Michigan**] (pythonmichiganuniversty.png)
-- ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**SQL – University of Michigan**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/sqlmichiganuniversty.png)
-- ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**Excel Basics – IBM**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/excelbasicsibm.jpeg)
+- [Python – University of Michigan](certificates/pythonmichiganuniversty.png)
+- [SQL – University of Michigan](certificates/sqlmichiganuniversty.png)
+- [Excel Basics – IBM](certificates/excelbasicsibm.jpeg)
+- [Excel Intro To Data Analysis](certificates/excelintro.png)
+- [Excel Beginner For Data Analysis](certificates/excelbeginner.png)
+- [Excel Intermediate For Data Analysis](certificates/excelintermediate.png)
+- [Excel Advanced For Data Analysis](certificates/exceladvanced.png)
+- [SQL Querying Basics](certificates/sqlquerybasics.png)
 
-<!-- LearnIt sertifikaları -->
-- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Intro To Data Analysis**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/excelintro.png)
-- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Beginner For Data Analysis**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/excelbeginner.png)
-- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Intermediate For Data Analysis**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/excelintermediate.png)
-- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Advanced For Data Analysis**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/exceladvanced.png)
-- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**SQL Querying Basics**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/sqlquerybasics.png)
+
 
 ## 📊 Projects (Coming Soon!)
 I am currently building projects using **Excel, SQL, and Python**. Stay tuned for dashboards and data analyses.  
