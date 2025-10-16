@@ -6,7 +6,7 @@ Currently based in Amsterdam 🇳🇱
 ---
 ## 🎓 Certificates
 
-- [Python – University of Michigan](pythonmichiganuniversty.png)
+- [Python – University of Michigan](https://github.com/Kenantkurt/Certificates/blob/4bd68e6a6d7cb49b1cc007b83f04ea45991cd188/pythonmichiganuniversty.png)
 - [SQL – University of Michigan](certificates/sqlmichiganuniversty.png)
 - [Excel Basics – IBM](certificates/excelbasicsibm.jpeg)
 - [Excel Intro To Data Analysis](certificates/excelintro.png)
