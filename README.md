@@ -7,7 +7,7 @@ Currently based in Amsterdam 🇳🇱
 ## 🎓 Certifications
 
 <!-- Coursera / IBM sertifikaları -->
-- ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**Python – University of Michigan**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/pythonmichiganuniversty.png)
+- ![Coursera] [**Python – University of Michigan**] (pythonmichiganuniversty.png)
 - ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**SQL – University of Michigan**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/sqlmichiganuniversty.png)
 - ![Coursera](https://img.shields.io/badge/Coursera-Completed-brightgreen) [**Excel Basics – IBM**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/excelbasicsibm.jpeg)
 
