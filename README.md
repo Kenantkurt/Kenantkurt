@@ -15,7 +15,7 @@ Currently based in Amsterdam 🇳🇱
 - ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Intro To Data Analysis**](certificates/excelintro.png)
 - ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Beginner For Data Analysis**](certificates/excelbeginner.png)
 - ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Intermediate For Data Analysis**](certificates/excelintermediate.png)
-- ![LearnIt](exceladvanced.pdf) [**Excel Advanced For Data Analysis**](certificates/exceladvanced.png)
+- ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**Excel Advanced For Data Analysis**](https://raw.githubusercontent.com/Kenantkurt/Kenantkurt/main/certificates/exceladvanced.png)
 - ![LearnIt](https://img.shields.io/badge/LearnIt-Certificate-blue) [**SQL Querying Basics**](certificates/sqlquerybasics.png)
 
 ## 📊 Projects (Coming Soon!)
