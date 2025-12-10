@@ -23,7 +23,9 @@
 
 **Learning**
 - Power BI  
-- Advanced Python  
+- Advanced Python
+- SQL
+- Advance Excel 
 
 **Tools**
 - Git & GitHub  
