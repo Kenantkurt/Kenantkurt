@@ -1,64 +1,76 @@
 # Hi, I'm Kenan 👋
-**Aspiring Data Engineer** focused on SQL, Python, and building data pipelines.
+
+Aspiring **Data Engineer** building data pipelines and working with data using **SQL, Python, and BigQuery**.
+
+Interested in **ETL workflows, data infrastructure, and scalable data systems**.
 
 ---
 
-## 🚀 About Me
-- 📊 Building data projects using **SQL, Python, BigQuery & Excel**
-- ⚙️ Currently learning **Data Engineering** through the **Data Engineering Zoomcamp**
-- 🎓 Studying **Data Analytics at Le Wagon**
-- 🐍 Learning **Python programming from the University of Helsinki**
-- 🏗 Interested in **data pipelines, ETL processes, and data infrastructure**
-- 📦 Curious about **E-commerce**, **Logistics**, and **Operational Data Systems**
-- 💡 Always exploring new datasets and creating hands-on projects
+# 🚀 About Me
+
+• Building hands-on data projects using **SQL, Python, BigQuery, and Docker**  
+• Practicing **data pipeline development and ETL workflows**  
+• Currently learning **Data Engineering through Data Engineering Zoomcamp**  
+• Background in **Data Analytics (Le Wagon)**  
+• Strengthening **Python and data engineering skills** through real-world projects  
+• Interested in **data infrastructure, pipelines, and analytics engineering**  
+• Curious about **E-commerce, Logistics, and Operational Data Systems**
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
-**Core Skills**
-- SQL (MySQL, BigQuery)
-- Python (Pandas, data manipulation)
-- Excel (PivotTables, data cleaning)
-- Google Sheets
+## Core Skills
+• SQL (MySQL, BigQuery)  
+• Python (Pandas, data processing)  
+• Data Cleaning & Transformation  
 
-**Data Engineering (Learning & Practicing)**
-- Data Pipelines
-- ETL Processes
-- Docker
-- Data Modeling
+## Data Engineering
+• Data Pipelines  
+• ETL Processes  
+• Data Modeling  
+• BigQuery  
 
-**Learning**
-- Data Engineering (Zoomcamp)
-- Advanced Python
-- Advanced SQL
-- Power BI
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Docker
+## Tools
+• Git & GitHub  
+• Docker  
+• VS Code  
+• Google Sheets  
+• Excel  
 
 ---
 
-## 📂 Projects
-You can find my **SQL, Python, and data engineering projects** in my repositories.
+# 📂 Projects
 
-Projects typically include:
-- SQL data analysis
-- Python data processing
-- Data cleaning and transformation
-- BigQuery analytics
-- End-to-end data projects
+Here are some of the areas covered in my projects:
 
-➡️ **Check the pinned repositories below for my latest projects.**
+• **SQL Data Analysis** – complex queries, joins, aggregations  
+• **Python Data Processing** – data cleaning and transformation using Pandas  
+• **BigQuery Analytics** – querying and analyzing large datasets  
+• **Data Engineering Practice Projects** – pipeline and ETL practice  
+• **End-to-End Data Projects** – exploring datasets and building workflows  
 
----
-
-## 📫 Contact
-- **LinkedIn:** https://www.linkedin.com/in/kenan-tufan-k-263000308
-- **Email:** kenantkurt@gmail.com
+➡️ Check the **pinned repositories below** for my latest projects.
 
 ---
 
-⭐ **Thanks for visiting — more data engineering projects coming soon.**
+# 🚧 Currently Working On
+
+• End-to-end **data pipeline projects**  
+• **BigQuery analytics workflows**  
+• **Docker-based data engineering environments**  
+• Improving **advanced SQL and Python skills**
+
+---
+
+# 📫 Contact
+
+LinkedIn:  
+https://www.linkedin.com/in/kenan-tufan-k-263000308
+
+Email:  
+kenantkurt@gmail.com
+
+---
+
+⭐ Thanks for visiting — more **data engineering projects** coming soon.
