@@ -1,6 +1,8 @@
 # Hi, I'm Kenan 👋
 
-Aspiring **Data Engineer** building data pipelines and working with data using **SQL, Python, and BigQuery**.
+**Aspiring Data Engineer** building data pipelines with **SQL, Python, Docker, and BigQuery**.
+
+🚀 Data Pipelines | ⚙️ ETL | 🐍 Python | 🐳 Docker | 🗄️ SQL | ☁️ BigQuery
 
 Interested in **ETL workflows, data infrastructure, and scalable data systems**.
 
@@ -9,7 +11,7 @@ Interested in **ETL workflows, data infrastructure, and scalable data systems**.
 # 🚀 About Me
 
 • Building hands-on data projects using **SQL, Python, BigQuery, and Docker**  
-• Practicing **data pipeline development and ETL workflows**  
+• Building and experimenting with **data pipelines and ETL workflows**
 • Currently learning **Data Engineering through Data Engineering Zoomcamp**  
 • Background in **Data Analytics (Le Wagon)**  
 • Strengthening **Python and data engineering skills** through real-world projects  
@@ -30,6 +32,7 @@ Interested in **ETL workflows, data infrastructure, and scalable data systems**.
 • ETL Processes  
 • Data Modeling  
 • BigQuery  
+• Docker 
 
 ## Tools
 • Git & GitHub  
