@@ -16,7 +16,6 @@ My work focuses on data pipelines, warehouse-style transformations, analytics en
 
 - Building end-to-end pipeline projects
 - Strengthening **dbt, BigQuery, Airflow, and Docker** skills
-- Expanding into **CI/CD and workflow automation**
 - Improving advanced SQL and Python skills
 
 ## Tech Stack
@@ -26,9 +25,6 @@ SQL, Python, BigQuery, Pandas
 
 **Data Engineering**  
 ETL / ELT, Data Pipelines, Data Modeling, dbt, Airflow, Docker
-
-**Currently Exploring**  
-CI/CD, workflow automation, analytics engineering practices
 
 ## Contact
 
