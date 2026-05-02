@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Kenan Kurt
 
-**Data Engineer** | Python • SQL • BigQuery • dbt • Apache Airflow • Docker
+**Data Analyst → Data Engineer** | Actively transitioning from analytics to data engineering | Python • SQL • BigQuery • dbt • Apache Airflow • Docker
 
-🎯 Building production-grade **ELT pipelines**, designing **analytics data warehouses**, and optimizing **data transformations** at scale. Currently transitioning from analytics to data engineering through hands-on projects and the **DataTalks.Club Data Engineering Zoomcamp**.
+🎯 Started as a **Data Analyst** (Power BI, SQL analytics). Now building production-grade **ELT pipelines**, designing **analytics data warehouses**, and optimizing **data transformations** at scale using **Apache Airflow, dbt, and BigQuery**. Currently transitioning from analytics to data engineering through hands-on projects and the **DataTalks.Club Data Engineering Zoomcamp**.
 
 ---
 
 ## 🎯 About Me
 
-I'm a **junior data engineer** with a strong analytics background, building real-world data infrastructure projects. My focus is on **end-to-end ELT pipelines**, **dbt transformations**, and **cloud data warehouses** (BigQuery, PostgreSQL). I believe in writing clean, tested, and documented code—and I practice this in every project.
+I'm transitioning from **Data Analyst** to **Data Engineer** with a strong analytics background, building real-world data infrastructure projects. My focus is on **end-to-end ELT pipelines**, **dbt transformations**, and **cloud data warehouses** (BigQuery, PostgreSQL). I believe in writing clean, tested, and documented code—and I practice this in every project.
 
 **Current Location:** Utrecht, Netherlands  
 **Learning:** DataTalks.Club Data Engineering Zoomcamp (in progress)
