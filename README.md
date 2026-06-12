@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Kenan Kurt
 
-**Data Analyst → Data Engineer** | Actively transitioning from analytics to data engineering | Python • SQL • BigQuery • dbt • Apache Airflow • Docker
+**Data Engineer** | Building end-to-end ELT pipelines | Python • SQL • BigQuery • dbt • Apache Airflow • Docker
 
-🎯 Started as a **Data Analyst** (Power BI, SQL analytics). Now building production-grade **ELT pipelines**, designing **analytics data warehouses**, and optimizing **data transformations** at scale using **Apache Airflow, dbt, and BigQuery**. Currently transitioning from analytics to data engineering through hands-on projects and the **DataTalks.Club Data Engineering Zoomcamp**.
+🎯 I build end-to-end **ELT pipelines**, design **analytics data warehouses**, and optimize **data transformations** using **Apache Airflow, dbt, and BigQuery**. I bring a strong analytics background (Power BI, SQL) and keep deepening my data engineering skills through hands-on projects and the **DataTalks.Club Data Engineering Zoomcamp**.
 
 ---
 
 ## 🎯 About Me
 
-I'm transitioning from **Data Analyst** to **Data Engineer** with a strong analytics background, building real-world data infrastructure projects. My focus is on **end-to-end ELT pipelines**, **dbt transformations**, and **cloud data warehouses** (BigQuery, PostgreSQL). I believe in writing clean, tested, and documented code—and I practice this in every project.
+I'm a **Data Engineer** with a strong analytics background, building real-world data infrastructure projects. My focus is on **end-to-end ELT pipelines**, **dbt transformations**, and **cloud data warehouses** (BigQuery, PostgreSQL). I believe in writing clean, tested, and documented code—and I practice this in every project.
 
 **Current Location:** Utrecht, Netherlands  
 **Learning:** DataTalks.Club Data Engineering Zoomcamp (in progress)
@@ -39,7 +39,7 @@ I'm transitioning from **Data Analyst** to **Data Engineer** with a strong analy
 
 ## 🚀 Highlighted Projects
 
-### **1. End-to-End Flight Delay Pipeline** ⭐ PRODUCTION READY
+### **1. End-to-End Flight Delay Pipeline** ⭐
 **Technologies:** Airflow 2.9 | dbt | BigQuery | PostgreSQL | Python | Docker
 
 A complete **ELT analytics pipeline** for U.S. domestic flight delays using real data from BTS (Bureau of Transportation Statistics).
@@ -59,7 +59,7 @@ A complete **ELT analytics pipeline** for U.S. domestic flight delays using real
 
 **Key Findings:**
 - Identified airport-level inefficiencies as primary delay driver (stronger than weather/holidays)
-- Demonstrated partitioning impact: 310 MB → 26 MB query cost reduction (8.5x savings)
+- Applied BigQuery partitioning & clustering to reduce query scan costs
 - Weather moderately affects delays; holiday periods show stable scheduling
 
 👉 [View Repository](https://github.com/Kenantkurt/end-to-end-flight-delay-pipeline)
@@ -127,7 +127,7 @@ Currently working through **DataTalks.Club Data Engineering Zoomcamp** modules:
 - ✅ Module 2: dbt fundamentals
 - ✅ Module 3: BigQuery & data warehousing
 - 🔄 Module 4: Orchestration with Airflow (in progress)
-- ⏳ Modules 5+: Advanced topics (Spark, Kafka, etc.)
+- 🔄 Currently going deeper into **PySpark, Databricks (Delta Lake), and CI/CD** for data pipelines
 
 ---
 
@@ -135,7 +135,7 @@ Currently working through **DataTalks.Club Data Engineering Zoomcamp** modules:
 
 | Skill | Proficiency | Evidence |
 |-------|-------------|----------|
-| **Python** | Advanced | Ingestion scripts, API integration, data transformation |
+| **Python** | Intermediate+ | Ingestion scripts, API integration, data transformation |
 | **SQL** | Advanced | Complex joins, window functions, query optimization |
 | **dbt** | Intermediate+ | 10+ production models, comprehensive tests, staging/mart patterns |
 | **BigQuery** | Intermediate+ | External/regular/partitioned tables, cost optimization, real data at scale |
@@ -151,7 +151,7 @@ Currently working through **DataTalks.Club Data Engineering Zoomcamp** modules:
 **Best for:** Data engineering interviews, portfolio reviews, hiring managers
 
 📌 **Pinned Repositories:**
-1. `end-to-end-flight-delay-pipeline` — Production ELT pipeline (Airflow + dbt + BigQuery)
+1. `end-to-end-flight-delay-pipeline` — End-to-end ELT pipeline (Airflow + dbt + BigQuery)
 2. `bigquery-taxi-data-warehouse` — Data warehouse design & optimization
 3. `gz-dbt-repository` — dbt project examples
 4. `sql-financial-analytics-pipeline` — Advanced SQL transformations
@@ -160,7 +160,7 @@ Currently working through **DataTalks.Club Data Engineering Zoomcamp** modules:
 
 ## 💡 What Makes My Work Stand Out
 
-✅ **Production-ready code** — Not toy projects. Real data, real pipelines, real considerations.  
+✅ **Real-world projects** — Not toy datasets. Real data, real pipelines, real trade-offs.  
 ✅ **Data quality-first** — Every pipeline includes comprehensive testing.  
 ✅ **Clear documentation** — READMEs that explain the "why," not just the "what."  
 ✅ **Optimization mindset** — BigQuery cost reduction, SQL efficiency, Airflow reliability.  
@@ -171,7 +171,7 @@ Currently working through **DataTalks.Club Data Engineering Zoomcamp** modules:
 ## 📧 Get In Touch
 
 💼 **LinkedIn:** [kenan-tufan-k-263000308](https://www.linkedin.com/in/kenan-tufan-k-263000308/)  
-📬 **Email:** [kenankurt@gmail.com](mailto:kenankurt@gmail.com)  
+📬 **Email:** [kenantkurt@gmail.com](mailto:kenantkurt@gmail.com)  
 🐙 **GitHub:** [@Kenantkurt](https://github.com/Kenantkurt)  
 📍 **Location:** Utrecht, Netherlands
 
