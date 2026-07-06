@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kenan Kurt
 
-**Data Engineer** | Building end-to-end ELT pipelines | Python • SQL • BigQuery • dbt • Apache Airflow • Docker
+**Data Engineer** | Building end-to-end ELT pipelines | Python • SQL • PySpark • Databricks • dbt • Airflow • Docker
 
-🎯 I build end-to-end **ELT pipelines**, design **analytics data warehouses**, and optimize **data transformations** using **Apache Airflow, dbt, and BigQuery**. I bring a strong analytics background (Power BI, SQL) and keep deepening my data engineering skills through hands-on projects and the **DataTalks.Club Data Engineering Zoomcamp**.
+🎯 I build end-to-end **ELT pipelines**, design **analytics data warehouses**, and clean and transform data at scale with **PySpark on Databricks**. I bring a strong analytics background (SQL, Power BI) and keep deepening my data engineering skills through hands-on projects — currently focused on **PySpark, Delta Lake, and CI/CD**.
 
 ---
 
@@ -11,18 +11,19 @@
 I'm a **Data Engineer** with a strong analytics background, building real-world data infrastructure projects. My focus is on **end-to-end ELT pipelines**, **dbt transformations**, and **cloud data warehouses** (BigQuery, PostgreSQL). I believe in writing clean, tested, and documented code—and I practice this in every project.
 
 **Current Location:** Utrecht, Netherlands  
-**Learning:** DataTalks.Club Data Engineering Zoomcamp (in progress)
+**Learning now:** PySpark & Databricks (hands-on Bronze→Silver cleaning projects) → CI/CD → next big build: an end-to-end lakehouse pipeline (Databricks + Delta Lake + dbt + Airflow + AWS)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### **Core Data Engineering**
-- **Languages:** Python 3.11, SQL (BigQuery, PostgreSQL)
+- **Languages:** Python 3.11, SQL (Spark SQL, BigQuery, PostgreSQL)
+- **Processing:** PySpark (DataFrame API), Databricks, Delta Lake (medallion architecture)
 - **Transformation:** dbt (dbt-BigQuery), SQL for analytics
 - **Orchestration:** Apache Airflow 2.9+
 - **Cloud Warehousing:** Google BigQuery, PostgreSQL
-- **Storage:** Parquet, Google Cloud Storage (GCS)
+- **Storage:** Parquet, Delta, Google Cloud Storage (GCS)
 - **Containerization:** Docker, Docker Compose
 
 ### **Data Formats & APIs**
@@ -86,24 +87,18 @@ Hands-on project comparing **3 table strategies** for NYC Yellow Taxi data (20M+
 
 ---
 
-### **3. Data Engineering Practice Solutions**
-**Technologies:** Python | SQL | dbt | Docker | Pandas
+### **3. Databricks PySpark Data Cleaning** 🔥
+**Technologies:** PySpark | Databricks | Delta Lake | Spark SQL
 
-Step-by-step solutions to the **data-engineering-practice** exercises (Daniel Beach's course).
+Six hands-on **Bronze → Silver cleaning pipelines** on Databricks, following the medallion architecture. Practice projects — each one a full raw-to-clean pass on a different messy dataset (e-commerce orders, cafe sales, Netflix titles, gym sessions, raw event logs, IoT device events).
 
-**Coverage:**
-- ✅ File I/O & data ingestion (Python)
-- ✅ Web scraping & API integration
-- ✅ AWS S3 & cloud storage basics
-- ✅ JSON/CSV transformations
-- ✅ SQL joins & aggregations
-- ✅ Data modeling for Postgres
-- ✅ PySpark fundamentals
-- ✅ DuckDB for analytics
-- ✅ Polars lazy computation
-- ✅ Data quality with Great Expectations
+**Techniques covered:**
+- ✅ Schema-on-read (StructType / DDL), clean-then-cast, `try_*` + `coalesce` for mixed formats
+- ✅ Parsing raw unstructured logs with `regexp_extract` (chose regex over an LLM for determinism)
+- ✅ Timezone normalization (CET → UTC), complex types (`struct` / `array` / `map`, `withField`)
+- ✅ Grain-aware deduplication, null vs. invalid-value policies, idempotent Delta writes
 
-👉 [View Repository](https://github.com/Kenantkurt/data-engineering-practice-solutions)
+👉 [View Repository](https://github.com/Kenantkurt/databricks-pyspark-data-cleaning)
 
 ---
 
@@ -121,13 +116,11 @@ Step-by-step solutions to the **data-engineering-practice** exercises (Daniel Be
 
 ## 📚 Learning Path
 
-Currently working through **DataTalks.Club Data Engineering Zoomcamp** modules:
-
-- ✅ Module 1: Docker & GCP setup
-- ✅ Module 2: dbt fundamentals
-- ✅ Module 3: BigQuery & data warehousing
-- 🔄 Module 4: Orchestration with Airflow (in progress)
-- 🔄 Currently going deeper into **PySpark, Databricks (Delta Lake), and CI/CD** for data pipelines
+- ✅ **DataTalks.Club Data Engineering Zoomcamp** — Docker, dbt, BigQuery, Airflow fundamentals
+- 🔄 **PySpark & Databricks** — Spark programming course + 6 published hands-on cleaning projects
+- ⏭️ **CI/CD for data pipelines** — GitHub Actions, pre-commit, detect-secrets
+- ⏭️ **Flagship project:** end-to-end lakehouse pipeline (Databricks + Delta Lake + dbt + Airflow + AWS S3)
+- 🎯 **Target certification:** Databricks Certified Data Engineer Associate
 
 ---
 
@@ -137,6 +130,8 @@ Currently working through **DataTalks.Club Data Engineering Zoomcamp** modules:
 |-------|-------------|----------|
 | **Python** | Intermediate+ | Ingestion scripts, API integration, data transformation |
 | **SQL** | Advanced | Complex joins, window functions, query optimization |
+| **PySpark** | Intermediate | 6 Bronze→Silver cleaning projects on Databricks (DataFrame API + Spark SQL) |
+| **Databricks / Delta Lake** | Intermediate | Medallion architecture, Delta tables, idempotent writes, notebooks |
 | **dbt** | Intermediate+ | 10+ production models, comprehensive tests, staging/mart patterns |
 | **BigQuery** | Intermediate+ | External/regular/partitioned tables, cost optimization, real data at scale |
 | **Apache Airflow** | Intermediate | DAG design, error handling, email alerts, daily orchestration |
@@ -152,9 +147,11 @@ Currently working through **DataTalks.Club Data Engineering Zoomcamp** modules:
 
 📌 **Pinned Repositories:**
 1. `end-to-end-flight-delay-pipeline` — End-to-end ELT pipeline (Airflow + dbt + BigQuery)
-2. `bigquery-taxi-data-warehouse` — Data warehouse design & optimization
-3. `gz-dbt-repository` — dbt project examples
-4. `sql-financial-analytics-pipeline` — Advanced SQL transformations
+2. `databricks-pyspark-data-cleaning` — PySpark Bronze→Silver cleaning on Databricks (6 projects)
+3. `bigquery-taxi-data-warehouse` — Data warehouse design & optimization
+4. `gz-dbt-repository` — dbt analytics pipeline (staging + marts + tests)
+5. `sql-financial-analytics-pipeline` — Advanced SQL transformations
+6. `sql-order-analytics` — Window functions & analytical SQL
 
 ---
 
@@ -187,5 +184,5 @@ Currently working through **DataTalks.Club Data Engineering Zoomcamp** modules:
 
 ---
 
-**Last Updated:** May 2, 2026  
+**Last Updated:** July 6, 2026  
 **Status:** Actively learning & building 🚀
